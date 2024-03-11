@@ -1,0 +1,49 @@
+.header {
+  display: flex;
+}
+
+.nav-logo {
+  width: 110px;
+  padding-left: 20px;
+}
+
+.nav-items > ul {
+  padding-left: 500px;
+  list-style-type: none;
+  display: flex;
+}
+
+.nav-items > ul > li {
+  margin: 20px;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.body {
+  padding-left: 20px;
+}
+
+.rest-card {
+  border: 2px solid #000;
+  width: 250px;
+  height: 300px;
+  margin: 7px;
+  padding: 20px;
+  overflow: hidden;
+}
+
+.res-container {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.card-logo {
+  width: 240px;
+  height: 150px;
+}
+
+.search {
+  padding: 20px;
+}
+/*# sourceMappingURL=index.61d3354a.css.map */
